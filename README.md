@@ -7,6 +7,8 @@ Install Jekyll and Bundler
 yarn install
 ```
 
-
 # Start
 - yarn start
+
+# Recommendation
+- Use [StackEdit](https://stackedit.io/app#)
