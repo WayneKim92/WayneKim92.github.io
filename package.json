@@ -2,7 +2,6 @@
   "name": "WayneKim92.github.io",
   "version": "0.1.0",
   "description": "An easy-to-use blog for any developer",
-  "main": "index.ts",
   "repository": "https://github.com/WayneKim92/WayneKim92.github.io.git",
   "author": "WayneKim92 <eunchan0817@gmail.com>",
   "license": "MIT",
@@ -10,11 +9,10 @@
   "devDependencies": {
     "@commitlint/cli": "^19.6.0",
     "@commitlint/config-angular": "^19.6.0",
-    "husky": "^9.1.7",
-    "ts-node": "^10.9.2",
-    "typescript": "^5.7.2"
+    "husky": "^9.1.7"
   },
   "scripts": {
-    "prepare": "husky"
+    "prepare": "husky",
+    "start": "cd docs && bundle exec jekyll serve"
   }
 }

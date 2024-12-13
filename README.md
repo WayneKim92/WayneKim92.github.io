@@ -1,14 +1,12 @@
-# Wayne's Dev blog
+# Prepare
 
-## github.io Setting
-- Go to https://github.com/username/username.github.io
-- Go to "Settings > Code and automation > Pages"
-- Find "Build and deployment > Source" 
-- Select "Deploy from a branch"
-- Select "main/docs" and Press Save 
+Install Jekyll and Bundler
+- https://jekyllrb.com/docs/installation/macos/
 
-## Start your editor
-- run "yarn start"
+```
+yarn install
+```
 
-## Deploy your post
-- push commits to main branch
+
+# Start
+- yarn start
