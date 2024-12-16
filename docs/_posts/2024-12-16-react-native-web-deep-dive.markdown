@@ -41,9 +41,9 @@ FYI. Babel은 자바스크립트/타입스크립트 코드를 읽고 변환하�
 /react-native-web/dist/exports/View/index.js 파일을 먼저 살펴보겠습니다. react 기반 웹 프로젝트에서 코드를 build 하였을 때 코드가 보이는 군요.
 어셈블러 장인만 볼 수 있는 코드 수준으로 변환되어 있지는 않지만 그래도 읽기가 불편하니 /react-native-web/src/exports/View/index.js 로 이동하여 코드를 살펴보겠습니다.
 
-![react-native-web-view-1.png](../../../images/react-native-web-view-1.png)
-![react-native-web-view-2.png](../../images/react-native-web-view-2.png)
-![react-native-web-view-3.png](../assets/img/react-native-web-view-3.png)
+![react-native-web-view-1.png](/assets/react-native-web-view-1.png)
+![react-native-web-view-2.png](/assets/react-native-web-view-2.png)
+![react-native-web-view-3.png](/assets/react-native-web-view-3.png)
 
 그렇습니다. 그저 React 코드이지요. JSX로 작성되어 있지 않을 뿐, 그저 React 코드이지요.
 
@@ -58,7 +58,7 @@ FYI. Babel은 자바스크립트/타입스크립트 코드를 읽고 변환하�
 npm Code 탭에서 /react-native-web/src/exports/TextInput/index.js 파일로 이동해봅시다!
 React Native의 TextInput과 동일하게 웹에서 동작하기 위한 많은 코드들이 보이는군요.
 
-![react-native-web-textinput-1.png](../assets/img/react-native-web-textinput-1.png)
+![react-native-web-textinput-1.png](/assets/img/react-native-web-textinput-1.png)
 
 여기서 한번 생각해보면 좋을 부분은 React Native 공식 문서에 있는 "Learn once, write anywhere" 슬로건 입니다.
 "한번 배워서 어디서든 코딩 할 수 있다!" 이 슬로건을 위한 노력이 바로 React Native Web 입니다.
