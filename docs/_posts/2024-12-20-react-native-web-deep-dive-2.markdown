@@ -135,13 +135,9 @@ if (firstFrame && first > 0) {
 > blinkTop = Math.min(2000, Math.max(0, 1000 - 1150))
 > 에헤이... 0으로 나오네... 정말 맞는 것일까???!?!?
 
-찜찜하여서 넘어가지 못 하겠다. Expo로 간단한 샘플 앱을 만들어서 확인해보자.
+찜찜하여서 넘어가지 못 하겠다. Expo로 간단한 샘플 앱을 만들어서 [확인](/assets/video/VirtualizedList-FillRateHelper-blankTop.mp4)해보자.
 
-
-## Batchinator ??
-
-
-
+[Expo에서 확인해보기](/assets/video/VirtualizedList-FillRateHelper-blankTop.mp4)
 
 ## "react-native-web 파헤치기 - 2"을 마치며
 
