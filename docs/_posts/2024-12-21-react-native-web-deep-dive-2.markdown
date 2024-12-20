@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "React Native Web 파헤치기 - 2"
-date:   2024-12-20 02:00:00 +0900
+date:   2024-12-21 01:30:00 +0900
 categories: react-native
 ---
 
@@ -139,7 +139,14 @@ if (firstFrame && first > 0) {
 
 [Expo에서 확인해보기](/assets/video/VirtualizedList-FillRateHelper-blankTop.mp4)
 
+FillRateHelper의 computeBlankness 메소드는 렌더링 초기 및 스크롤 이벤트 발생 시에도 실행되지 않는다.
+그렇다는 거는 이 부분은 잠시 미뤄두고 다음 코드를 살펴보면 되겠다.
+
 ## "react-native-web 파헤치기 - 2"을 마치며
+
+상상과 예측과 분석을 통해서 코드를 파헤치는 것은 정말 재미있는 일이다.
+이번에는 VirtualizedList의 FillRateHelper를 살펴보았다.
+다음에는 Batchinatorn을 살펴보면서 VirtualizedList의 최적화 렌더링에 대해서 더 자세히 알아보겠다.
 
 [docs react-native-web]: https://necolas.github.io/react-native-web/
 [github react-native-web]: https://github.com/necolas/react-native-web
