@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "React Native Web 파헤치기 - 1"
+title:  "React Native Web 파헤치기 1"
 date:   2024-12-16 23:20:00 +0900
 categories: react-native
 ---
