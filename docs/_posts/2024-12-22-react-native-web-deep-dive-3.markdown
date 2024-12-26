@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "React Native Web 파헤치기 2 - 2"
+title:  "React Native Web 파헤치기 3"
 date:   2024-12-21 19:26:00 +0900
-categories: react-native
+categories: react-native react-native-web
 ---
 
 # Batchinator ?
