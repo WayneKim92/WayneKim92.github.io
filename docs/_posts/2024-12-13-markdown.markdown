@@ -2,7 +2,7 @@
 layout: post
 title:  "Markdown 문법 테스트"
 date:   2024-12-13 21:44:50 +0900
-categories: test
+categories: markdown
 ---
 
 # 글자 굵음 처리
