@@ -46,7 +46,7 @@ function HelloWorld(){
 
 Program.body > ImportDeclaration.sorce.value 까지 이동해보면 값이 'react-native'로 나오는 것을 볼 수 있습니다.
 react-native-web babel-plugin 코드로 돌아가서 코드를 보면 import하는 모듈이 ReactNative 모듈이면 작성한 바벨 플러그인 코드에 의해서 react-native-web/dist/exports/Text/index.js로 변환되는 것을 볼 수 있습니다.
-react-native-web github 레포에는 dist 폴더가 없으므로 npm의 Code 탭에서 위 경로로 이동하여 해당 컴포넌트가 있는 것을 확인 수 있지요.
+react-native-web github 레포에는 dist 폴더가 없으므로 [npm의 Code 탭](https://www.npmjs.com/package/react-native-web?activeTab=code)에서 위 경로로 이동하면 해당 컴포넌트가 있는 것을 확인 수 있습니다~
 
 이로써 react-native-web은 react-native 코드를 react-native-web 코드로 입장시키는 관문이라는 것을 알 수 있습니다.
 
