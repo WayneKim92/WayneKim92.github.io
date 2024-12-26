@@ -2,7 +2,7 @@
 layout: post
 title:  "React Native Web 파헤치기 2"
 date:   2024-12-21 01:30:00 +0900
-categories: react-native
+categories: react-native react-native-web
 ---
 
 # 알고리즘 책의 1장에 나오는 Big O
