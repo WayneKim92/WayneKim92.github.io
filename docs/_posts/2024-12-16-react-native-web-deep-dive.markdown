@@ -34,7 +34,7 @@ FYI. Babel은 자바스크립트/타입스크립트 코드를 읽고 변환하�
 
 [AST Explorer](https://astexplorer.net/) 사이트에서 아래 코드의 추상 문법 트리를 자세히 살펴보겠습니다. ( 사이트에 접속하여 아래 코드를 복사-붙여넣이 하세요~)
 
-```typescript
+```tsx
 import { Text as RNText } from 'react-native'
 
 function HelloWorld(){
