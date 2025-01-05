@@ -23,7 +23,7 @@ email: eunchan0817@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Do you like React, React Native, dogs, games, drawings, etc.? is it so. I write about them.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://waynekim92.github.io"
 github_username:  WayneKim92
 
 # Build settings
@@ -31,6 +31,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
